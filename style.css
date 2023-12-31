@@ -138,3 +138,14 @@ img{
     padding: 20px;
 }
 
+
+input:focus{
+    outline: none;
+    border: 2px solid #e435;
+    box-shadow: 1px 1px 2px grey;
+
+}
+
+#disclaimer{
+    font-size: .8rem;
+}
