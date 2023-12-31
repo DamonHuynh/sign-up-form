@@ -149,3 +149,12 @@ input:focus{
 #disclaimer{
     font-size: .8rem;
 }
+
+.error{
+    border: 2px solid red;
+}
+
+#match{
+    font-size: .6rem;
+    color: red;
+}
