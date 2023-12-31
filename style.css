@@ -141,7 +141,7 @@ img{
 
 input:focus{
     outline: none;
-    border: 2px solid #e435;
+    border: 2px solid rgb(51, 123, 238);
     box-shadow: 1px 1px 2px grey;
 
 }
